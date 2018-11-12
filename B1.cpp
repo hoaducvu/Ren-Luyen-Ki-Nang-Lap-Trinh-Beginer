@@ -9,7 +9,7 @@ using namespace std;
 
 int main() {
 	#ifdef HoaSayyy
-		freopen("" , "r" , stdin);
+		//freopen("" , "r" , stdin);
 		//freopen("" , "w" , stdout);
 	#endif
 	ios_base::sync_with_stdio(0);
